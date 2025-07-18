@@ -77,20 +77,7 @@ The project utilizes several configurable settings within the `Hypervelocity_Imp
 *   **Detection thresholds:** Thresholds for object detection and classification can be adjusted.
 *   **GPU/CPU Usage:** The notebook has settings to control the usage of GPU resources, allowing the models to be run on CPU if a GPU isn't available.
 
-## Contributing Guidelines
 
-We welcome contributions to this project! To contribute:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with clear, descriptive messages.
-4.  Submit a pull request to the main branch.
-
-Please ensure your code follows the existing style guidelines and includes appropriate tests.
-
-## License Information
-
-License information is currently not specified for this repository. The code is currently for research and demonstration purposes. Please contact the owner (DarkX0704) for clarification or licensing options if you want to use the code commercially.
 
 ## Acknowledgments
 
